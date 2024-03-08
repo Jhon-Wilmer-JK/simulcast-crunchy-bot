@@ -24,7 +24,7 @@ pip install selenium
 
 - ejecutar el bot en 2do plano y 24/7:
 ```
-nohup python3 asuna_bot.py > log_bot.txt 2>&1 &
+nohup python3 bot.py > log_bot.txt 2>&1 &
 ```
 
 - buscar el prceso:

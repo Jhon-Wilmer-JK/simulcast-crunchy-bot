@@ -24,12 +24,12 @@ pip install selenium
 
 - ejecutar el bot en 2do plano y 24/7:
 ```
-nohup python3 bot.py > log_bot.txt 2>&1 &
+nohup python3 cr_simulcast_bot.py > log_simulcast_bot.txt 2>&1 &
 ```
 
 - buscar el prceso:
 ```
-ps aux | grep furina_bot.py
+ps aux | grep cr_simulcast_bot.py
 ```
 
 - terminar el proceso:

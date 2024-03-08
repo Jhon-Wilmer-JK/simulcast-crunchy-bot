@@ -36,3 +36,11 @@ ps aux | grep furina_bot.py
 ```
 kill ID_del_proceso
 ```
+**1. Campos requeridos**
+
+- `BOT_TOKEN`: El token de Bot de Telegram que obtuviste de [@BotFather](https://t.me/BotFather). `Fuente`
+- `OWNER_ID`: El ID de usuario de Telegram (no el nombre de usuario) del propietario del bot. `Ent`
+- `TELEGRAM_API`: esto es para autenticar su cuenta de Telegram para descargar archivos de Telegram. puedes conseguir esto
+  de <https://my.telegram.org>. `Ent`
+- `TELEGRAM_HASH`: esto es para autenticar su cuenta de Telegram para descargar archivos de Telegram. puedes conseguir esto
+  de <https://my.telegram.org>. `Fuente`

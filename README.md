@@ -7,7 +7,7 @@ importante aclarar que solo es funcional al 100% en SO Ubuntu y similares
 git clone https://github.com/Jhon-Wilmer-JK/simulcast-crunchy-bot cr_simulcast_bot/ && cd cr_simulcast_bot
 ```
 
-- Instalar dependencias:
+- Instalar navegador:
 ```
 sudo apt install chromium-browser
 ```

@@ -7,11 +7,11 @@ import asyncio
 from pyrogram.types import InlineQueryResultArticle, InputTextMessageContent
 
 # Definir el TOKEN del bot de Telegram y el ID del grupo
-telegram_token = '6601181501:AAFUnOsMmj03xiC0D547v-VDKPr7YOUYLtE' 
-TELEGRAM_API = "22502818"
-TELEGRAM_HASH = "34a99207c3de31a541e6cfbe9be44534"
-CANAL_ID = -1002105880876 #crunchyroll canal
-GRUPO_ID = -1002111484098  # Reemplazar con el ID real de tu grupo de pruebas
+telegram_token = '' #obtener de botfather
+TELEGRAM_API = "" #obtener en https://my.telegram.org
+TELEGRAM_HASH = "" #obtener en https://my.telegram.org
+CANAL_ID = -100 #crunchyroll canal
+GRUPO_ID = -100  # Reemplazar con el ID real de tu grupo de pruebas
 
 # Configurar el registro de actividad
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
